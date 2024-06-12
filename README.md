@@ -76,3 +76,17 @@ To use this contract, you'll need access to [Remix](https://remix.ethereum.org/)
            emit Burn(_from, _amount); // Emit burn event
        }
    }
+
+
+
+
+   
+### Summary
+
+- **Open Remix** in your web browser.
+- **Create a new Solidity file** and copy the provided contract code.
+- **Compile and deploy the contract** using the Remix interface.
+- **Interact with the deployed contract** to mint and burn tokens, and check balances.
+
+This README provides clear instructions for users who want to deploy and interact with the contract using the Remix IDE.
+
